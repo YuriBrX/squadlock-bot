@@ -1,0 +1,11 @@
+.git
+.github
+.env
+.env.*
+!.env.example
+.venv
+venv
+__pycache__
+*.pyc
+*.log
+LICENSE
